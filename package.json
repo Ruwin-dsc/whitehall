@@ -1,0 +1,28 @@
+{
+  "name": "whitehall",
+  "version": "1.0.4",
+  "description": "Un package qui vous permet d'améliorer votre bot Discord ! ⭐️",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruwin-dsc/whitehall.git"
+  },
+  "keywords": [
+    "Discord",
+    "JavaScript",
+    "Bot"
+  ],
+  "author": "ruwinou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ruwin-dsc/whitehall/issues"
+  },
+  "homepage": "https://github.com/Ruwin-dsc/whitehall#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "shuffle-array": "^1.0.1"
+  }
+}

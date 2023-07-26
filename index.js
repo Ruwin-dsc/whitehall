@@ -1,0 +1,1 @@
+module.exports = require("./src/blackjack/index"); //original creator 3061LRTAGSPKJMORMRT https://github.com/3061LRTAGSPKJMORMRT/discord-blackjack
