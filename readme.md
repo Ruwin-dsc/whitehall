@@ -1,4 +1,4 @@
-# Voici un petit guide pour l'utilisation des module
+# Voici un petit guide pour l'utilisation des modules
 ## blackjack
 
 > Ce repo est un fork de ["3061LRTAGSPKJMORMRT"](https://github.com/3061LRTAGSPKJMORMRT) pour le blackjack. La différence est que celui là est disponible en discord.js v14 et j'ai ajouté un troisième fieldd
